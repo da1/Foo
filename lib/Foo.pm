@@ -5,7 +5,9 @@ use warnings;
 
 our $VERSION = "0.01";
 
-
+sub foo {
+    return "foo";
+}
 
 1;
 __END__

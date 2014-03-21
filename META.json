@@ -53,5 +53,18 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/da1/Foo/issues"
+      },
+      "homepage" : "https://github.com/da1/Foo",
+      "repository" : {
+         "url" : "https://github.com/da1/Foo.git",
+         "web" : "https://github.com/da1/Foo"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "da1 <dyamada1988@gmail.com>"
+   ]
 }
