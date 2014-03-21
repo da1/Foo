@@ -8,7 +8,18 @@ Foo - It's new $module
 
 # DESCRIPTION
 
-Foo is ...
+Minilaでmodule作ってみるテスト
+
+    ## minil install
+    $ cpanm Minilla
+    ## 初期設定
+    $ minil new Foo
+    ## test
+    $ minil test --all
+
+    # 作ったmoduleのインストール
+    $ cpanm git://github.com/da1/Foo.git
+
 
 # LICENSE
 
